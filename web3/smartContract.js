@@ -1,6 +1,6 @@
 /**
  *@fileName smartContract.js
- *@author   Like (978885880@qq.com)
+ *@author   Like (likeaixi@gmail.com)
  *@date     2017/12/23
  *@disc
  */
