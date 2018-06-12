@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b87af223-37b4-4d85-b397-2b2a38222e7f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/tools/pagination/pagination.js" afterPath="$PROJECT_DIR$/tools/pagination/pagination.js" />
-    </list>
+    <list default="true" id="b87af223-37b4-4d85-b397-2b2a38222e7f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -80,11 +78,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pagination.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pagination.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tools/pagination/pagination.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebSocket.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tools/WebSocket/WebSocket.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -218,7 +226,7 @@
               <item name="like-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="like-demo" type="462c0819:PsiDirectoryNode" />
               <item name="tools" type="462c0819:PsiDirectoryNode" />
-              <item name="pagination" type="462c0819:PsiDirectoryNode" />
+              <item name="WebSocket" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -302,12 +310,12 @@
       <workItem from="1519958545478" duration="2723000" />
       <workItem from="1520129397300" duration="36521000" />
       <workItem from="1525328807836" duration="8133000" />
-      <workItem from="1528709905638" duration="5294000" />
+      <workItem from="1528709905638" duration="5405000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80059000" />
+    <option name="totallyTimeSpent" value="80170000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="165" y="23" width="1506" height="983" extended-state="0" />
@@ -366,13 +374,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node_modules/solc/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="38" lean-forward="false" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/solc/wrapper.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2356">
@@ -724,6 +725,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/WebSocket/WebSocket.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
