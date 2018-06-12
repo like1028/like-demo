@@ -5,6 +5,12 @@
  *@disc
  */
 
+ /*
+ * Param ：为{}格式     需要传给后台的参数
+ * $(dom).pagination(param,callback);
+ * Pagination.PARAM = { url: "xxx"}     接口路径
+ * Pagination.className = {}     可修改对应元素class
+ */
 
 ;(function ($) {
         Pagination = function (element, options, callback) {
