@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b87af223-37b4-4d85-b397-2b2a38222e7f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="b87af223-37b4-4d85-b397-2b2a38222e7f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -26,7 +24,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="regexp.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="regexp.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tools/regexp.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2220">
@@ -34,6 +32,26 @@
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="timer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools/timer/timer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="timer.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tools/timer/timer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -85,6 +103,8 @@
         <option value="$PROJECT_DIR$/smartContract.js" />
         <option value="$PROJECT_DIR$/arrow.html" />
         <option value="$PROJECT_DIR$/tools/regexp.js" />
+        <option value="$PROJECT_DIR$/tools/timer/timer.js" />
+        <option value="$PROJECT_DIR$/tools/timer/timer.html" />
       </list>
     </option>
   </component>
@@ -133,6 +153,22 @@
               <item name="like-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="like-demo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="like-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="like-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="like-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="like-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="like-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="like-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+              <item name="timer" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -152,15 +188,16 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tools" />
+      <recent name="D:\Like\INT\like-demo\node_modules" />
+      <recent name="D:\Like\INT\like-demo\js" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$/html" />
       <recent name="$PROJECT_DIR$/web3" />
       <recent name="$PROJECT_DIR$/smartcontract" />
-      <recent name="D:\Like\INT\like-demo\js" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Like\INT\like-demo\node_modules" />
       <recent name="D:\Like\INT\like-demo\js" />
     </key>
   </component>
@@ -214,12 +251,12 @@
       <workItem from="1519958545478" duration="2723000" />
       <workItem from="1520129397300" duration="36521000" />
       <workItem from="1525328807836" duration="8133000" />
-      <workItem from="1528709905638" duration="4141000" />
+      <workItem from="1528709905638" duration="4450000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78906000" />
+    <option name="totallyTimeSpent" value="79215000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="165" y="23" width="1506" height="983" extended-state="0" />
@@ -278,21 +315,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/doc/newWeb3js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/kongtou.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web3/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -629,6 +651,22 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/timer/timer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/timer/timer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
