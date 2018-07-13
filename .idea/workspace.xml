@@ -15,12 +15,52 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="批量转帐智能合约.js" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="批量转帐智能合约.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/smartcontract/批量转帐智能合约.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="27" lean-forward="true" selection-start-line="38" selection-start-column="31" selection-end-line="39" selection-end-column="27" />
+            <state relative-caret-position="0">
+              <caret line="55" column="7" lean-forward="false" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="airDrop.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/smartcontract/airDrop.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2057">
+              <caret line="121" column="1" lean-forward="false" selection-start-line="121" selection-start-column="1" selection-end-line="121" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="INTSmartContract.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/smartcontract/INTSmartContract.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="32" column="26" lean-forward="true" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="arrow.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/arrow.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="39" lean-forward="false" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kongtou.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/kongtou.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -50,6 +90,7 @@
       <find>sub</find>
       <find>isAuthorized</find>
       <find>buy</find>
+      <find>transfer</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -79,6 +120,7 @@
         <option value="$PROJECT_DIR$/tools/pagination/pagination.js" />
         <option value="$PROJECT_DIR$/smartcontract/ETHOfficalSmartContract.js" />
         <option value="$PROJECT_DIR$/smartcontract/批量转帐智能合约.js" />
+        <option value="$PROJECT_DIR$/smartcontract/airDrop.js" />
       </list>
     </option>
   </component>
@@ -98,9 +140,10 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1920" />
-    <option name="height" value="1200" />
+    <option name="height" value="1126" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -124,6 +167,16 @@
             <path>
               <item name="like-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="like-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="like-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="like-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="like-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="like-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="like-demo" type="b2602c69:ProjectViewProjectNode" />
@@ -214,15 +267,17 @@
       <workItem from="1525328807836" duration="8133000" />
       <workItem from="1528709905638" duration="9064000" />
       <workItem from="1530407661834" duration="107000" />
-      <workItem from="1530585347561" duration="993000" />
+      <workItem from="1530585347561" duration="1055000" />
+      <workItem from="1531462736151" duration="2273000" />
+      <workItem from="1531483339814" duration="372000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84929000" />
+    <option name="totallyTimeSpent" value="87636000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="1126" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1263823" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -278,13 +333,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/html/arrow.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/kongtou.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
@@ -423,38 +471,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/kongtou.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="61" lean-forward="false" selection-start-line="26" selection-start-column="61" selection-end-line="26" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/kongtou.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="0" column="1365" lean-forward="false" selection-start-line="0" selection-start-column="1365" selection-end-line="0" selection-end-column="1365" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/smartcontract/EOSSmartContract.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-491">
           <caret line="288" column="5" lean-forward="true" selection-start-line="288" selection-start-column="5" selection-end-line="288" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/smartcontract/INTSmartContract.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="161" column="77" lean-forward="true" selection-start-line="161" selection-start-column="77" selection-end-line="161" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/arrow.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="39" lean-forward="false" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -601,8 +621,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/smartcontract/批量转帐智能合约.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="27" lean-forward="true" selection-start-line="38" selection-start-column="31" selection-end-line="39" selection-end-column="27" />
+        <state relative-caret-position="0">
+          <caret line="55" column="7" lean-forward="false" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smartcontract/airDrop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2057">
+          <caret line="121" column="1" lean-forward="false" selection-start-line="121" selection-start-column="1" selection-end-line="121" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smartcontract/INTSmartContract.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="32" column="26" lean-forward="true" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/arrow.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="39" lean-forward="false" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/kongtou.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="0" column="1365" lean-forward="false" selection-start-line="0" selection-start-column="1365" selection-end-line="0" selection-end-column="1365" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/kongtou.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
           <folding />
         </state>
       </provider>
