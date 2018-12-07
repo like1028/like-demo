@@ -28,7 +28,5 @@
     "url": "https://github.com/like1028/like-demo/issues"
   },
   "homepage": "https://github.com/like1028/like-demo#readme",
-  "dependencies": {
-    "node-xlsx": "^0.12.1"
-  }
+  "dependencies": {}
 }
