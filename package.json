@@ -29,8 +29,6 @@
   },
   "homepage": "https://github.com/like1028/like-demo#readme",
   "dependencies": {
-    "node-xlsx": "^0.12.1",
-    "solc": "^0.4.19",
-    "web3": "^1.0.0-beta.27"
+    "node-xlsx": "^0.12.1"
   }
 }
