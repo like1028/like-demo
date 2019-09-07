@@ -1,9 +1,10 @@
 /**
- *@file     app.js
- *@author   Like (978885880@qq.com)
- *@date     2017/12/22
- *@disc
+ *@file    app.js
+ *@author  Like (likeaixi@gmail.com)
+ *@date    2019-09-07
+ *@disc    demo
  */
+
 const Web3 = require('web3');
 // console.log(Web3);
 const web3 = new Web3(Web3.givenProvider || "http://localhost:8545");

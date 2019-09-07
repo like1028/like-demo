@@ -10,7 +10,7 @@
 
         /*写入cookie    key value*/
         function setCookie(cname,cvalue){
-            exdays = 1; //此 cookie 将被保存天数
+            var exdays = 1; //此 cookie 将被保存天数
             var d = new Date();
             d.setTime(d.getTime() + (exdays*24*60*60*1000));
             var expires = "expires=" + d.toUTCString();

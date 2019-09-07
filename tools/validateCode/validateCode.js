@@ -1,24 +1,4 @@
-/**
- * @validateCode
- * @author Tyrone Yves Chen
- * @version 1.0
- * @description 验证码验证
- * @disclaimer 我只是代码的搬运工，借鉴于网上各位大佬的代码修改后在项目中使用，如有雷同，纯属巧合
- * @PS：汤圆萌萌哒~
- * Param ：
- * validateCodeOptions = {
-        len:4,(默认4，可选)
-        callbackFn:function (data) {
 
-        }
-    },
- validateCodeTestCode = {
-        inputValue:"",
-        callbackFn:function (data) {
-
-        }
-    };
- */
 
 (function (window) {
     var validateCode = function (options) {
