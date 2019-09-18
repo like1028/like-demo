@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/likeaixi/like-demo#readme",
   "dependencies": {
-    "moment": "^2.24.0"
+    "moment": "^2.24.0",
+    "solc": "^0.5.11"
   }
 }
