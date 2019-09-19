@@ -12,6 +12,7 @@ const input = {
     sources: {
         'test.sol': {
             content: 'pragma solidity ^0.5.11; contract test { function multiply(uint a) public pure returns(uint d) {   return a * 7;   } }'
+            // content: 'pragma solidity ^0.4.12; contract test { function multiply(uint a) public pure returns(uint d) {   return a * 7;   } }'
         }
     },
     settings: {
