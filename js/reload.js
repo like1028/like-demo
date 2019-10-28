@@ -27,7 +27,7 @@ let watchPeer = async()=>{
     if(maxHeight != newMaxHeight){
         maxHeight = newMaxHeight
     }else{
-        let cmdRestartPeer = 'pm2 restart 2';
+        let cmdRestartPeer = 'pm2 restart 0';
         exec(cmdRestartPeer,(err1, stdout1, srderr1)=>{
             if(err1){
                 console.log(srderr1)

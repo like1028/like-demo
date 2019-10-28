@@ -11,7 +11,7 @@ const input = {
     language : 'Solidity',
     sources: {
         'test.sol': {
-            content: 'pragma solidity ^0.5.11; contract test { function multiply(uint a) public pure returns(uint d) {   return a * 7;   } }'
+            content: 'pragma solidity ^0.5.11;contract Multiply7 {event Print(uint);function multiply(uint input) public returns (uint) {Print(input * 7);return input * 7;}}'
             // content: 'pragma solidity ^0.4.12; contract test { function multiply(uint a) public pure returns(uint d) {   return a * 7;   } }'
         }
     },
