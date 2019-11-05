@@ -41,19 +41,19 @@ var c = new Crawler({
                     });
                 }
             } else {
-                var imgSrc = $("#CheckCodeImg").attr("src");  //  https://kns.cnki.net/kns/checkcode.aspx?t='0.134481467834898
-                var url = `https://kns.cnki.net/kns/` + imgSrc.replace("/kns/", "");
-                console.log(url);
-                console.log(res.body);
-
-
-                let stream = Request(url).pipe(fs.createWriteStream("./checkcode.jpg"));
-                // console.log(req);
-                stream.on('finish', () => {
-                    console.log('图片写入完成');
-                    return
-                });
-                // return
+                // var imgSrc = $("#CheckCodeImg").attr("src");  //  https://kns.cnki.net/kns/checkcode.aspx?t='0.134481467834898
+                // var url = `https://kns.cnki.net/kns/` + imgSrc.replace("/kns/", "");
+                // console.log(url);
+                // console.log(res.body);
+                //
+                //
+                // let stream = Request(url).pipe(fs.createWriteStream("./checkcode.jpg"));
+                // // console.log(req);
+                // stream.on('finish', () => {
+                //     console.log('图片写入完成');
+                //     return
+                // });
+                return
             }
         }
         done();

@@ -1,6 +1,6 @@
 let exec = require('child_process').exec;
 let fs = require('fs');
-let moment = require('moment');
+let moment = require('moment/moment');
 let maxHeight = 0;
 let getMaxHeight = ()=>{
     return new Promise((resolve,reject)=>{
