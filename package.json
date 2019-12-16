@@ -29,11 +29,24 @@
   },
   "homepage": "https://github.com/likeaixi/like-demo#readme",
   "dependencies": {
+    "@truffle/hdwallet-provider": "^1.0.27",
+    "bn.js": "^4.11.6",
+    "browserify-cipher": "^1.0.1",
+    "bs58check": "^2.1.2",
     "crawler": "^1.2.1",
+    "elliptic": "^6.4.0",
+    "intjs": "^2.0.15",
+    "lodash": "^4.17.11",
     "moment": "^2.24.0",
     "node-xlsx": "^0.15.0",
+    "pbkdf2": "^3.0.17",
+    "randombytes": "^2.1.0",
     "readline": "^1.3.0",
+    "safe-buffer": "^5.2.0",
+    "scrypt.js": "0.3.0",
     "solc": "^0.5.11",
-    "tesseract.js": "^2.0.0-beta.1"
+    "tesseract.js": "^2.0.0-beta.1",
+    "uuid": "3.3.2",
+    "xhr-request-promise": "^0.1.2"
   }
 }
