@@ -34,7 +34,7 @@
     "browserify-cipher": "^1.0.1",
     "bs58check": "^2.1.2",
     "crawler": "^1.2.1",
-    "elliptic": "^6.4.0",
+    "elliptic": "^6.5.3",
     "intjs": "^2.0.15",
     "lodash": "^4.17.11",
     "moment": "^2.24.0",
