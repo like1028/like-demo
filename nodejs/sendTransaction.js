@@ -49,7 +49,7 @@ let sendSignTransaction = (nonce) => {
 };
 
 let sendTransaction = () => {
-    let sendTxCmd = `curl -X POST --data '{"jsonrpc":"2.0","method":"eth_sendTransaction","params":[{"from": "INT3AadD8nRG5Vimzi5cnwDExEkMRAE9","to": "INT3AadD8nRG5Vimzi5cnwDExEkMRAE9","gas": "0x76c0","gasPrice": "0x2540be400","value": "0x1","data": ""}],"id":1}' -H 'content-type: application/json;' http://127.0.0.1:8555/testnet`;
+    let sendTxCmd = `curl -X POST --data '{"jsonrpc":"2.0","method":"eth_sendTransaction","params":[{"from": "INT39NQ6EoRUqK6ypvmqPx7j7ZsskGN4","to": "INT3AadD8nRG5Vimzi5cnwDExEkMRAE9","gas": "0x76c0","gasPrice": "0x2540be400","value": "0x1","data": ""}],"id":1}' -H 'content-type: application/json;' http://127.0.0.1:8555/testnet`;
     exec(sendTxCmd, (err, stdout, stderr) => {
         if (err) {
             console.error(`执行错误：${err}`);
@@ -71,4 +71,4 @@ let sendTransaction = () => {
 
 setInterval(() => {
     sendTransaction()
-}, 100);
+}, 2);
