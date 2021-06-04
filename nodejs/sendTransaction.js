@@ -4,8 +4,8 @@ let Nat = require("../lib/nat");
 let Tx = require("../lib/transaction");
 
 let account = {
-    address: 'INT3Pkr1zMmk3mnFzihH5F4kNxFavJo4',
-    privateKey: '0xc15c038a5a9f8f948a2ac0eb102c249e4ae1c4fa1f0971b50c63db46dc5fcf8b'
+    address: '',
+    privateKey: ''
 };
 
 let Nonce = 0x0;
